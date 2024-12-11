@@ -22,7 +22,7 @@ This project focuses on loading and analyzing an airline reviews dataset to extr
 
 ### 2. Summary Statistics
 - Calculate mean, median, and standard deviation for relevant columns such as `OverallRating`, `SeatComfort`, `CabinStaffService`, etc.
-- Print these statistics for initial insights into the data.
+- Print these statistics for initial insights into the data..
 
 ### 3. Data Visualization
 - Generate a boxplot using `matplotlib` and `seaborn` to explore the distribution of review scores across different categories.
